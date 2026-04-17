@@ -23,3 +23,5 @@ Aplicacion MVC con Servlet, capa DAO en memoria y JSP para CRUD completo.
 
 ## Entrega GitHub
 Nombre sugerido: `apellido-post1-u6`
+
+Publicacion independiente r2: 2026-04-17 07:26:38
